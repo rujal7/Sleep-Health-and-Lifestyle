@@ -74,5 +74,5 @@ If you keep the CSV in the same folder as the notebook, no path change is needed
 
 ## Author
 
-**Your Name**
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/rujal7)
+**Rajneesh Sharma**
+[GitHub](https://github.com/rujal7)
